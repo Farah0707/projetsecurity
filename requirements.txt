@@ -1,0 +1,9 @@
+pycryptodome 
+cryptography
+nltk 
+scikit-learn 
+langdetect 
+spacy
+pytest
+flask
+joblib

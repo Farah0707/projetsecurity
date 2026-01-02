@@ -1,0 +1,5 @@
+This is a simple English sentence used for cryptography experiments.
+Security analysis often relies on statistical properties of language.
+The Caesar cipher is one of the oldest encryption techniques.
+Machine learning models can detect valid plaintext automatically.
+This project demonstrates automatic cryptanalysis using NLP features.
